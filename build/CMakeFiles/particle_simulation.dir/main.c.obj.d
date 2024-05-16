@@ -1,16 +1,5 @@
 CMakeFiles/particle_simulation.dir/main.c.obj: \
  C:\Users\Hayden\Documents\Programming\C\C\ projects\Particle\ Simulation\main.c \
- C:/mingw64/x86_64-w64-mingw32/include/stdio.h \
- C:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
- C:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
- C:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
- C:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
- C:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
- C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
- C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
- C:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
- C:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
- C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_main.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_stdinc.h \
@@ -24,6 +13,12 @@ CMakeFiles/particle_simulation.dir/main.c.obj: \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/stddef.h \
  C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
  C:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
@@ -39,6 +34,7 @@ CMakeFiles/particle_simulation.dir/main.c.obj: \
  C:/mingw64/x86_64-w64-mingw32/include/process.h \
  C:/mingw64/x86_64-w64-mingw32/include/corecrt_startup.h \
  C:/mingw64/x86_64-w64-mingw32/include/sys/types.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_rwops.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_clipboard.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_cpuinfo.h \
@@ -185,4 +181,5 @@ CMakeFiles/particle_simulation.dir/main.c.obj: \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_timer.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_version.h \
  C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_locale.h \
- C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_misc.h
+ C:/Users/Hayden/DOCUME~1/PROGRA~1/C/CPROJE~1/PARTIC~1/SDL2/include/SDL_misc.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h

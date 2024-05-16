@@ -136,6 +136,7 @@ CMakeFiles/particle_simulation.dir/main.c.obj: C:/Users/Hayden/Documents/Program
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/shaintrin.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/smmintrin.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h \
+  C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
   C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
@@ -164,7 +165,6 @@ CMakeFiles/particle_simulation.dir/main.c.obj: C:/Users/Hayden/Documents/Program
   C:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h \
   C:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
   C:/mingw64/x86_64-w64-mingw32/include/corecrt_startup.h \
-  C:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
   C:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
   C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
   C:/mingw64/x86_64-w64-mingw32/include/errno.h \
@@ -175,15 +175,12 @@ CMakeFiles/particle_simulation.dir/main.c.obj: C:/Users/Hayden/Documents/Program
   C:/mingw64/x86_64-w64-mingw32/include/psdk_inc/intrin-impl.h \
   C:/mingw64/x86_64-w64-mingw32/include/sdkddkver.h \
   C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
-  C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
   C:/mingw64/x86_64-w64-mingw32/include/setjmp.h \
   C:/mingw64/x86_64-w64-mingw32/include/stdarg.h \
   C:/mingw64/x86_64-w64-mingw32/include/stddef.h \
   C:/mingw64/x86_64-w64-mingw32/include/stdint.h \
-  C:/mingw64/x86_64-w64-mingw32/include/stdio.h \
   C:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
-  C:/mingw64/x86_64-w64-mingw32/include/swprintf.inl \
   C:/mingw64/x86_64-w64-mingw32/include/sys/types.h \
   C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
   C:/mingw64/x86_64-w64-mingw32/include/winapifamily.h \
@@ -191,8 +188,6 @@ CMakeFiles/particle_simulation.dir/main.c.obj: C:/Users/Hayden/Documents/Program
 
 
 C:/mingw64/x86_64-w64-mingw32/include/sys/types.h:
-
-C:/mingw64/x86_64-w64-mingw32/include/stdio.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/stddef.h:
 
@@ -205,8 +200,6 @@ C:/mingw64/x86_64-w64-mingw32/include/malloc.h:
 C:/mingw64/x86_64-w64-mingw32/include/limits.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/errno.h:
-
-C:/mingw64/x86_64-w64-mingw32/include/corecrt_stdio_config.h:
 
 C:/mingw64/x86_64-w64-mingw32/include/_mingw_stdarg.h:
 
@@ -249,6 +242,8 @@ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/tmmintrin.h:
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/tbmintrin.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h:
+
+C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/sgxintrin.h:
 
@@ -315,8 +310,6 @@ C:/Users/Hayden/Documents/Programming/C/C\ projects/Particle\ Simulation/SDL2/in
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512fp16intrin.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vp2intersectvlintrin.h:
-
-C:/mingw64/x86_64-w64-mingw32/include/swprintf.inl:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdarg.h:
 
@@ -469,8 +462,6 @@ C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vbmiintrin.h:
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vlbwintrin.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vlintrin.h:
-
-C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vnniintrin.h:
 
